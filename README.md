@@ -26,4 +26,5 @@ pytest
 
 ## Автор
 
-Kodland
+Тимур и pug!
+
